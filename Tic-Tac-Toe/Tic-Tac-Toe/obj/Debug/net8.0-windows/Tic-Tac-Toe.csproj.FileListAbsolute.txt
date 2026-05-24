@@ -1,0 +1,32 @@
+C:\ds-10652\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\net8.0-windows\Tic-Tac-Toe.exe
+C:\ds-10652\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\net8.0-windows\Tic-Tac-Toe.deps.json
+C:\ds-10652\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\net8.0-windows\Tic-Tac-Toe.runtimeconfig.json
+C:\ds-10652\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\net8.0-windows\Tic-Tac-Toe.dll
+C:\ds-10652\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\net8.0-windows\Tic-Tac-Toe.pdb
+C:\ds-10652\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\net8.0-windows\Tic_Tac_Toe.Form1.resources
+C:\ds-10652\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\net8.0-windows\Tic-Tac-Toe.csproj.GenerateResource.cache
+C:\ds-10652\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\net8.0-windows\Tic-Tac-Toe.GeneratedMSBuildEditorConfig.editorconfig
+C:\ds-10652\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\net8.0-windows\Tic-Tac-Toe.AssemblyInfoInputs.cache
+C:\ds-10652\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\net8.0-windows\Tic-Tac-Toe.AssemblyInfo.cs
+C:\ds-10652\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\net8.0-windows\Tic-Tac-Toe.csproj.CoreCompileInputs.cache
+C:\ds-10652\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\net8.0-windows\Tic-Tac-Toe.dll
+C:\ds-10652\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\net8.0-windows\refint\Tic-Tac-Toe.dll
+C:\ds-10652\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\net8.0-windows\Tic-Tac-Toe.pdb
+C:\ds-10652\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\net8.0-windows\Tic-Tac-Toe.genruntimeconfig.cache
+C:\ds-10652\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\net8.0-windows\ref\Tic-Tac-Toe.dll
+C:\Users\bia18\OneDrive\Documentos\estudos\Nova pasta\Tic-Tac-Toe\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\net8.0-windows\Tic-Tac-Toe.exe
+C:\Users\bia18\OneDrive\Documentos\estudos\Nova pasta\Tic-Tac-Toe\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\net8.0-windows\Tic-Tac-Toe.deps.json
+C:\Users\bia18\OneDrive\Documentos\estudos\Nova pasta\Tic-Tac-Toe\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\net8.0-windows\Tic-Tac-Toe.runtimeconfig.json
+C:\Users\bia18\OneDrive\Documentos\estudos\Nova pasta\Tic-Tac-Toe\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\net8.0-windows\Tic-Tac-Toe.dll
+C:\Users\bia18\OneDrive\Documentos\estudos\Nova pasta\Tic-Tac-Toe\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\net8.0-windows\Tic-Tac-Toe.pdb
+C:\Users\bia18\OneDrive\Documentos\estudos\Nova pasta\Tic-Tac-Toe\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\net8.0-windows\Tic_Tac_Toe.Form1.resources
+C:\Users\bia18\OneDrive\Documentos\estudos\Nova pasta\Tic-Tac-Toe\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\net8.0-windows\Tic-Tac-Toe.csproj.GenerateResource.cache
+C:\Users\bia18\OneDrive\Documentos\estudos\Nova pasta\Tic-Tac-Toe\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\net8.0-windows\Tic-Tac-Toe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bia18\OneDrive\Documentos\estudos\Nova pasta\Tic-Tac-Toe\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\net8.0-windows\Tic-Tac-Toe.AssemblyInfoInputs.cache
+C:\Users\bia18\OneDrive\Documentos\estudos\Nova pasta\Tic-Tac-Toe\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\net8.0-windows\Tic-Tac-Toe.AssemblyInfo.cs
+C:\Users\bia18\OneDrive\Documentos\estudos\Nova pasta\Tic-Tac-Toe\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\net8.0-windows\Tic-Tac-Toe.csproj.CoreCompileInputs.cache
+C:\Users\bia18\OneDrive\Documentos\estudos\Nova pasta\Tic-Tac-Toe\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\net8.0-windows\Tic-Tac-Toe.dll
+C:\Users\bia18\OneDrive\Documentos\estudos\Nova pasta\Tic-Tac-Toe\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\net8.0-windows\refint\Tic-Tac-Toe.dll
+C:\Users\bia18\OneDrive\Documentos\estudos\Nova pasta\Tic-Tac-Toe\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\net8.0-windows\Tic-Tac-Toe.pdb
+C:\Users\bia18\OneDrive\Documentos\estudos\Nova pasta\Tic-Tac-Toe\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\net8.0-windows\Tic-Tac-Toe.genruntimeconfig.cache
+C:\Users\bia18\OneDrive\Documentos\estudos\Nova pasta\Tic-Tac-Toe\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\net8.0-windows\ref\Tic-Tac-Toe.dll
